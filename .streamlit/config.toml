@@ -1,7 +1,0 @@
-[theme]
-base = "dark"
-primaryColor = "#4CAF50"         # اللون الأخضر المضيء للأزرار والسلايدرز (ينور في الضلمة)
-backgroundColor = "#0E1117"      # الخلفية الداكنة الفخمة للشاشة
-secondaryBackgroundColor = "#1F2937" # خلفية الـ Sidebar الجانبي باللون الرمادي الداكن المريح
-textColor = "#FFFFFF"            # لون النصوص أبيض ناصع وواضح جداً
-font = "sans serif"
