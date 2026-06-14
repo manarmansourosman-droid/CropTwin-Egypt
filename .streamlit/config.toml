@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2E7D32"         # اللون الأخضر الأساسي للأزرار والسلايدرز
+backgroundColor = "#F4F9F4"      # خلفية الشاشة (درجة خضراء فاتحة جداً ومريحة للعين)
+secondaryBackgroundColor = "#E8F5E9" # خلفية الـ Sidebar الجانبي (درجة زيتوني هادئة)
+textColor = "#1B5E20"            # لون النصوص الأساسية (أخضر داكن وواضح)
+font = "sans serif"
